@@ -1,0 +1,2 @@
+This is my add new file.
+It must be send to the commit section.
