@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+note all these:-
+=======
 This is my today task.
+>>>>>>> dbc52e5e61d445a0d42240c7a572ed1d98ac1059
 The work is not easy but it can made easy by hard working.
 A new client is arriving today.
 Work is closed today.
